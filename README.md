@@ -71,7 +71,6 @@ Installation of MOFHY is much eaiser then you think!
 ## Patch Existing MOFHY Lite Installation
 - Download the ```Patch.to.Update.from.MOFHY.Lite.zip``` file. 
 - Extract the .zip file to the root folder of your domain. 
-- Create an empty database for the project
 - Open your browser and type ```http://yourdomain.com/``` an update page will be appear. 
 - Click "Update" and the DB Will be updated
 - Access the admin panel at ```http://example.com/admin/``` and review that the settings are correct. 
