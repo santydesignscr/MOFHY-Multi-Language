@@ -54,7 +54,7 @@ Your server need to met minimal requirements to run MOFHY:
 
 ## Installation 
 Installation of MOFHY is much eaiser then you think!
-- Download the ```Fresh Install``` file. 
+- Download the ```Fresh.Install.zip``` file. 
 - Extract the .zip file to the root folder of your domain. 
 - Create an empty database for the project
 - Open your browser and type ```http://yourdomain.com/``` an installation page will be appear. 
@@ -66,7 +66,16 @@ Installation of MOFHY is much eaiser then you think!
 - Set callback url to ```http://example.com/callback/Callback.php``` in the MOFH Reseller panel (panel.myownfreehostnet).
 - Set up the API in "API Settings" in the admin area (```http://example.com/admin/```).
 - Set up the Domain Extensions (Free subdomains) in the admin panel (```http://example.com/admin/```).
-- All done! 
+- All done!
+
+## Patch Existing MOFHY Lite Installation
+- Download the ```Patch.to.Update.from.MOFHY.Lite.zip``` file. 
+- Extract the .zip file to the root folder of your domain. 
+- Create an empty database for the project
+- Open your browser and type ```http://yourdomain.com/``` an update page will be appear. 
+- Click "Update" and the DB Will be updated
+- Access the admin panel at ```http://example.com/admin/``` and review that the settings are correct. 
+- All done!
 
 ## Extra Setup Steps
 - Create Knowledgebase articles for your webhost (```http://example.com/admin/```).
