@@ -104,8 +104,4 @@ The core is created by [Mahtab Hassan](https://github.com/mahtab2003)
 And the Multi Lang System and translations by [Santy Designs](https://santydesigns.com).
 
 ## Copyright
-Code ©️ Copyright 2022 MOFHY Lite. Code released under the MIT license.
-
-
-## Copyright
-Code ©️ Copyright 2021 MOFHY Lite. Code released under the MIT license.
+Code ©️ Copyright 2022 MOFHY. Code released under the MIT license.
