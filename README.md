@@ -105,7 +105,7 @@ And the Multi Lang System and translations by [Santy Designs](https://santydesig
 
 ## Copyright
 Code ©️ Copyright 2022 MOFHY Lite. Code released under the MIT license.
-ty Designs](https://santydesigns.com) with the contributions of @ImLoadingUuU and @OverdueWeevil2.
+
 
 ## Copyright
 Code ©️ Copyright 2021 MOFHY Lite. Code released under the MIT license.
